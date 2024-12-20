@@ -14,13 +14,15 @@ it can be of any amount.
 
 ## usage
 
-1) save the script anywhere within your file system.
+1) create an extension in the dialogue extensions creator (see attached)
+![image](https://github.com/user-attachments/assets/8c2041b0-ee36-4ecd-a0dc-7ef94cff2e9a)
 
-2) add the script as a Global/Singleton by going to Project -> Project Settings -> Globals
+this will create a folder "dialogic_addons" if it did not already exist in your `res://addons/dialogic_additions` directory, and add a folder with the extension name.
+
+2) paste the code into the generated file (for me, i named the extension `DialogueSelector`, so my file is named `event_dialogue_selector.gd`)
 <br>
 
-![image](https://github.com/user-attachments/assets/2e31a3f9-23c5-46bc-86cb-e972e62acdf8)
-
 <br>
-that's it! this script interacts with the Dialogic.Choices through signals and will automatically function.
+that's it! the script will automatically work (if not, restart the engine).
+<br>
 any modification, fork etc is welcome.
