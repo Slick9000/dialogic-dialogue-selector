@@ -1,11 +1,14 @@
-# dialogicdialogueselector
+# dialogic-dialogue-selector
 a script which enables dialogue selection and highlighting with up and down inputs.
+
+i believe in the future dialogic will make this work natively, but for now, dialogue selection in dialogic is not natively supported.
+<br>
+here's a fairly simple script which solves this.
 
 ## ☕ donations
 
-while completely optional, it would be highly appreciated if you could donate if you find this program helpful!
-
-i put a lot of hours into coding and debugging it, and a donation of any amount can be made through paypal.
+while completely optional, it would be highly appreciated if you could donate if you find this script helpful!
+it can be of any amount.
 
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://paypal.me/irbee246)
 
