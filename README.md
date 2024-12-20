@@ -2,8 +2,6 @@
 a script which enables dialogue selection and highlighting with up and down inputs.
 
 i believe in the future dialogic will make this work natively, but for now, dialogue selection in dialogic is not natively supported.
-<br>
-here's a fairly simple dialogic extension script which solves this.
 
 ## ☕ donations
 
