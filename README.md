@@ -12,19 +12,14 @@ it can be of any amount.
 
 ## usage
 
-- create an extension in the dialogue extensions creator (see attached)
-<br>
+- save the script anywhere within your file system.
 
-![image](https://github.com/user-attachments/assets/8c2041b0-ee36-4ecd-a0dc-7ef94cff2e9a)
+- add the script as a global/singleton by going to `Project -> Project Settings -> Globals` (see attached)
 
-this will create a folder "dialogic_addons" if it did not already exist in your `res://addons/dialogic_additions` directory, and add a folder with the extension name.
+that's it! the script will automatically work.
 
-![image](https://github.com/user-attachments/assets/0e14b5a7-8ddb-4100-9508-dd4540ced377)
-
-
-- paste the code into the generated file (for me, i named the extension `DialogueSelector`, so my file is named `event_dialogue_selector.gd`)
-<br>
-
-that's it! the script will automatically work (if not, restart the engine).
-<br>
 any modification, fork etc is welcome.
+
+<br>
+
+![image](https://github.com/user-attachments/assets/2e31a3f9-23c5-46bc-86cb-e972e62acdf8)
