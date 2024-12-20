@@ -15,7 +15,9 @@ i put a lot of hours into coding and debugging it, and a donation of any amount 
 
 2) add the script as a Global/Singleton by going to Project -> Project Settings -> Globals
 <br>
-![image](https://github.com/user-attachments/assets/56e67fe9-e3e5-43f7-b349-e254caa137b5)
+
+![image](https://github.com/user-attachments/assets/2e31a3f9-23c5-46bc-86cb-e972e62acdf8)
+
 <br>
 that's it! this script interacts with the Dialogic.Choices through signals and will automatically function.
 any modification, fork etc is welcome.
